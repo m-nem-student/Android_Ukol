@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ukol</string>
+
+    <string-array name="names">
+        <item>Team_Fortres_2</item>
+        <item>CounterStrike_Global_Offensive</item>
+        <item>Guild_Wars_2</item>
+        <item>The_Elder_Scrolls_Online</item>
+    </string-array>
+
+
+</resources>
